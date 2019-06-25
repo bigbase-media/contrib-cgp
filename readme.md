@@ -15,3 +15,9 @@
                         in: Add fade-in elements
                         out: Add fade-out elements 
     alpha_list:         Transparency control list
+    
+    
+###### Examples of video:
+ <video>
+    <source id="map41" src="http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11104-484360.mp4" type="video/mp4>
+ </video>
