@@ -20,5 +20,7 @@
 ###### Examples of video:
 
 [fade-in and fade-out](http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11104-484360.mp4)
-[fade-in](http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11104-484360.mp4)
-[fade-out](http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11104-484360.mp4)
+
+[fade-in](http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11105-117533.mp4)
+
+[fade-out](http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11114-108122.mp4)
