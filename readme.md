@@ -18,6 +18,7 @@
     
     
 ###### Examples of video:
- <video>
-    <source id="map41" src="http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11104-484360.mp4" type="video/mp4>
- </video>
+
+[fade-in and fade-out](http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11104-484360.mp4)
+[fade-in](http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11104-484360.mp4)
+[fade-out](http://test-v.oss-cn-shanghai.aliyuncs.com/hypnos-blueprint/output-11104-484360.mp4)
